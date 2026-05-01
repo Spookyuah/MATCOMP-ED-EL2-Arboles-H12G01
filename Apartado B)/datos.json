@@ -1,0 +1,34 @@
+{
+  "tripletas": [
+    {
+      "s": "persona:Albert Einstein",
+      "p": "nace_en",
+      "o": "lugar:Ulm"
+    },
+    {
+      "s": "persona:Antonio",
+      "p": "nace_en",
+      "o": "lugar:Ulm"
+    },
+    {
+      "s": "persona:Albert Einstein",
+      "p": "gana_premio",
+      "o": "premio:Nobel_Fisica"
+    },
+    {
+      "s": "persona:Marie Curie",
+      "p": "nace_en",
+      "o": "lugar:Varsovia"
+    },
+    {
+      "s": "persona:Marie Curie",
+      "p": "gana_premio",
+      "o": "premio:Nobel_Quimica"
+    },
+    {
+      "s": "persona:Isaac Newton",
+      "p": "nace_en",
+      "o": "lugar:Woolsthorpe"
+    }
+  ]
+}
